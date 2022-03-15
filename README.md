@@ -5,9 +5,9 @@
 
 _Paulius Ra practis-project_
 
-This project is for educational porpuses only. Thank you for your cooperation!
+This project is for educational porpuses only. 
 
-Site published at: https://pauliusra1987.github.io/1-homework/
+Site published at: https://pauliusra1987.github.io/2-practis-with-404-page/
 
 Design: https://i.redd.it/wpomlwprsry41.png
 
