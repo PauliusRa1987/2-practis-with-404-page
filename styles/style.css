@@ -26,9 +26,9 @@ header > nav {
     width: 600px;
     height: 30px;
     float: right; 
-    margin: 35px 70px 0 0; 
+    margin: 35px 0 0 0; 
     padding-left: 100px; 
-    text-align: center;
+    
 }
 nav > a {
     color: #fff;  
